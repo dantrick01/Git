@@ -1,1 +1,21 @@
-# Lesson 1
+Lesson 1
+
+Step 0: 
+What is GitHub?
+- it is a web platform to share and save files (especially for updating versions of files
+
+Why do we use GitHub?
+- convenient to share and work on same project in a team
+- easy to recover previous versions 
+
+Step 1: Create a github account
+
+Step 2: Create repository (think of it as a project folder)
+        Decide public or private
+
+Step 3: Create or add files into the created repo
+
+Step 4: After editing the files in the selected repo, commit!!
+        Commit can be thought as saving a version.
+        It is good to provide detailed description on what changes are made for the version.
+        
