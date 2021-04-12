@@ -1,2 +1,2 @@
-# Git
-Learning How to Use Git
+# GitHub
+Learning How to Use GitHub
