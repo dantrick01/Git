@@ -42,3 +42,26 @@ pwd
 cd ..
 clear
 ls
+
+Git
+git clone
+git status
+git commit -a -m "Add Description "
+git log -2
+
+Please enter the commit message for your changes
+On the first line, enter the comment: “Added h1 tag”. Save the file 
+and exit the editor (to do it in default editor, press ESC and then type :wq and hit Enter). You should see …
+
+git config
+Press :q when we see (END) or in VIM
+
+git push  push to github remote
+git pull  pull from github
+
+e.g. git remote 
+or   git remote -v    where v stands or verbose
+
+git command remote branch
+git push origin 
+
