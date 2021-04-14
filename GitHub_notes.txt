@@ -59,6 +59,7 @@ Press :q when we see (END) or in VIM
 git push  push to github remote
 git pull  pull from github
 
+
 e.g. git remote 
 or   git remote -v    where v stands or verbose
 
@@ -72,3 +73,4 @@ in Local
               git add .  for adding everything 
 3. commit     git commit -a   means add everything
 
+Youtube 1.8
