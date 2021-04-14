@@ -65,3 +65,10 @@ or   git remote -v    where v stands or verbose
 git command remote branch
 git push origin 
 
+Git init  to create .git file
+in Local
+1. save
+2. add        staging area: for multiple edited files
+              git add .  for adding everything 
+3. commit     git commit -a   means add everything
+
