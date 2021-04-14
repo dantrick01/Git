@@ -33,6 +33,8 @@ Fork Repository
 Contributing to the original repo
 - pull request (asking the original owner to pull the branch made by the another user)
 
+Cloning from web to pc
+
 
 Linux Command Prompt
 Terminal
