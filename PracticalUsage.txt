@@ -22,8 +22,49 @@ git commit -m "Added ..."    -commit staged files
 git commit -a -m "Added all" -commit everything
 
 To upload to GitHub must create repo in GitHub first
+When you create a repo, create without checking any blocks
 
-      
+…or create a new repository on the command line
+echo "# repo tile" >> README.md           -writing name inside README.md and generating a file
+git init                     
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:dantrick01/njkn.git
+git push -u origin main
+
+...or push an existing repository from the command line
+git remote add origin git@github.com:username/repo_name.git
+git branch -M main
+git push -u origin main
+
+extra
+git remote
+git remote -v     -to see the repo destination in GitHub
+
+To download from GitHub to pc
+git clone (copy and paste the SSH link for the repo)
+git status (check the status)
+git commit -a -m "Downloaded Repo"
+
+Useful Git Terms
+git log -2      -check most recently used git commands
+
+When You See This Message
+Please enter the commit message for your changes
+On the first line, enter the comment: “Added h1 tag”. Save the file 
+and exit the editor (to do it in default editor, press ESC and then type :wq and hit Enter). You should see …
+
+You are in VIM, therefore need to exit to use git commands
+----------------------------------------------------------------------------------
+To delete Repo in Git
+git remote remove origin
+
+To delete Repo in GitHub
+go to repo file
+then setting option, scroll all the way down to danger zone
+click on delete this repository
+
 Reference
 youtube
 https://youtu.be/BCQHnlnPusY?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
