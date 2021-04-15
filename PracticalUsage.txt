@@ -1,0 +1,29 @@
+Using Git Locally
+Step 1. Create SSH key
+https://youtu.be/WgZIv5HI44o
+https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+Step 2. Learn the terms used in GitBash terminal
+cd (file path) -going into the folder
+cd ..          -coming out from the folder
+pwd            -showing the file path
+ls             -showing the file names with the folder
+ls -v          -showing details about the files  v: verbose
+clear          -clearing the terminal window
+cd __          -then drag and drop the file path
+
+Step 3. Git Terms
+git status     -shows the condition
+
+Locally Creating Repository/ Project
+git init       -when .git folder does not exist
+git add .      -adding all files to staging area 
+git commit -m "Added ..."    -commit staged files
+git commit -a -m "Added all" -commit everything
+
+To upload to GitHub must create repo in GitHub first
+
+      
+Reference
+youtube
+https://youtu.be/BCQHnlnPusY?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
