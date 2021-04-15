@@ -74,3 +74,5 @@ in Local
 3. commit     git commit -a   means add everything
 
 Youtube 1.8
+
+Everyday usage
