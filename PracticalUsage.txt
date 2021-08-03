@@ -64,6 +64,16 @@ To delete Repo in GitHub
 go to repo file
 then setting option, scroll all the way down to danger zone
 click on delete this repository
+-----------------------------------------------------------------------------
+Creating branches
+1. git branch    (to check which branch you are in)
+2. git branch (name of your branch)   eg. trial1
+3. git checkout (name of your branch) to switch into the branch
+
+Added
+
+
+
 
 Reference
 youtube
